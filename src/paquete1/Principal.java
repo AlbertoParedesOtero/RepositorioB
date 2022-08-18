@@ -21,5 +21,7 @@ public class Principal {
         System.out.println("ya ni t cuento");
         System.out.println("hola");
         System.out.println("adios");
+
+        System.out.println("car");
     }
 }
