@@ -17,5 +17,8 @@ public class Principal {
         System.out.println("y estoo!!!");
         System.out.println("ya ni t cuento");
 
+
+        System.out.println("adios");
+
     }
 }
