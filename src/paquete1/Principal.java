@@ -14,14 +14,12 @@ public class Principal {
 
         System.out.println("esto es del diseñador2");
         System.out.println("esto tambien");
-
-        System.out.println("soy master");
-
         System.out.println("y estoo!!!");
         System.out.println("ya ni t cuento");
         System.out.println("hola");
         System.out.println("adios");
-
         System.out.println("car");
+        System.out.println("men");
+        
     }
 }
