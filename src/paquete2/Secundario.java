@@ -5,5 +5,9 @@ public class Secundario {
         
         System.out.println("Emplezando la clase Secundaria");
 
+
+        System.out.println("maito dai el puto amo");
+
+
     }
 }
