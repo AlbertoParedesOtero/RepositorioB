@@ -11,6 +11,9 @@ public class Principal {
         }
 
         System.out.println("la vita nuova");
-        System.out.println("carmen la");
+
+        System.out.println("esto es del diseñador2");
+        System.out.println("esto tambien");
+
     }
 }
