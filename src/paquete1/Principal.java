@@ -12,7 +12,5 @@ public class Principal {
 
         System.out.println("la vita nuova");
 
-        System.out.println("carmen");
-
     }
 }
