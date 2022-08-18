@@ -8,6 +8,8 @@ public class Secundario {
 
         System.out.println("maito dai el puto amo");
 
+        System.out.println("el poder de gai sensei");
+
 
     }
 }
