@@ -12,6 +12,8 @@ public class Secundario {
         
 
 
+        System.out.println("el poder de gai sensei");
+
 
     }
 }
