@@ -14,6 +14,7 @@ public class Principal {
 
         System.out.println("esto es del diseñador2");
         System.out.println("esto tambien");
+        System.out.println("y estoo!!!");
 
     }
 }
